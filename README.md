@@ -3,7 +3,7 @@
 Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecnologia(IMT). A curiosidade me trouxe até aqui, ainda estou aprendendo como tudo isso funciona e alguns truques extras pelo caminho. Trabalho atualmente com um pouco de Front-End na Web e estudo Back-End em aplicações gerais tanto na faculdade quanto por fora. 
 
 <br>
-#💾 Linguagens: <br>
+#💾 Linguagens: 
 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
