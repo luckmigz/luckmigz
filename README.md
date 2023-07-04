@@ -3,7 +3,7 @@
 Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecnologia(IMT). A curiosidade me trouxe até aqui, ainda estou aprendendo como tudo isso funciona e alguns truques extras pelo caminho. Trabalho atualmente com um pouco de Front-End na Web e estudo Back-End em aplicações gerais tanto na faculdade quanto por fora. 
 
 <br>
-#💾 Linguagens: 
+#💾 Linguagens: <br>
 	
 <br>
   
