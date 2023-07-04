@@ -22,9 +22,11 @@ Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecno
 ![Luckmigz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckmigz&show_icons=true&theme=dark)
 
 
-Minhas redes: 
+Me chame pra conversar! 
+Estas são minhas redes: <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miguel-de-matos-negri-1a5913210/)
-
+<br> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luc_migue/)
 
 
 <!--
