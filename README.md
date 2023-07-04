@@ -25,7 +25,7 @@ Estas são minhas redes: <br>
 <br> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luc_migue/)
 
-## Meu Progresso 
+## Meu Progresso 😎
 
 ![Luckmigz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckmigz&show_icons=true&theme=dark)
 
