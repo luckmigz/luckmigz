@@ -23,7 +23,7 @@ Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecno
 
 
 Minhas redes: 
-![(https://www.linkedin.com/in/lucas-miguel-de-matos-negri-1a5913210/) ](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![(https://www.linkedin.com/in/lucas-miguel-de-matos-negri-1a5913210/)]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/lucas-miguel-de-matos-negri-1a5913210/))
 
 <!--
 **luckmigz/luckmigz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
