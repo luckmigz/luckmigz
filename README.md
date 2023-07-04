@@ -19,7 +19,7 @@ Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecno
   Inglês: Avançado; <br>
 <br>
 <br>
-Me chame pra conversar! 
+Me chame pra conversar! <br>
 Estas são minhas redes: <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miguel-de-matos-negri-1a5913210/)
 <br> 
