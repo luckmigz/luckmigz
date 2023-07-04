@@ -25,11 +25,21 @@ Estas são minhas redes: <br>
 <br> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luc_migue/)
 
-## Meu Progresso <div></div>
+## Meu Progresso <div class = "bar"></div>
 ![Luckmigz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckmigz&show_icons=true&theme=dark)
 
 
-
+<style>
+  .bar{
+    positon: relative;
+    height: 10px;
+    width: 100%;
+    border: 1;
+    backgorund: #2a2a2a;
+    border-radius: 50px;
+    display: block;
+  }
+</style>
 
 
 <!--
