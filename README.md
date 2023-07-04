@@ -3,13 +3,11 @@
 Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecnologia(IMT). A curiosidade me trouxe até aqui, ainda estou aprendendo como tudo isso funciona e alguns truques extras pelo caminho. Trabalho atualmente com um pouco de Front-End na Web e estudo Back-End em aplicações gerais tanto na faculdade quanto por fora. 
 
 <br>
-##💾 Linguagens: <br>
-	
-###🛠 Ferramentas: <br>
+🛠 Ferramentas: <br>
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 
-#📝 Idiomas: <br>
+📝 Idiomas: <br>
   Português: Nativo; <br>
   Inglês: Avançado; <br>
 <br>
