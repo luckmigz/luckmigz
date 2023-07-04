@@ -19,7 +19,7 @@ Sou o Lucas Miguel, curso Engenharia da Computação no Instituto Mauá de Tecno
   Inglês: Avançado; <br>
 <br>
 <br>
-![Luckmigz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckmigz&show_icons=true&theme=synthwave)
+![Luckmigz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckmigz&show_icons=true&theme=dark)
 <!--
 **luckmigz/luckmigz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
